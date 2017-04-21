@@ -10,6 +10,3 @@ def find_missing(list1, list2):
     else:
         return 0
 
-print(find_missing([], []))
-print(find_missing([7], [7]))
-print(find_missing([4, 6, 8], [4, 6, 8, 10]))
